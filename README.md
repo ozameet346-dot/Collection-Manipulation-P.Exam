@@ -6,6 +6,7 @@ A simple, menu-driven Python application designed to manage student records. Thi
 
 - **GitHub Repository:** https://github.com/ozameet346-dot/Collection-Manipulation-P.Exam
 - **Python Source Code:** https://github.com/ozameet346-dot/Collection-Manipulation-P.Exam/blob/main/01_Colleciton_Manipulator.py
+- Live Server Link : https://onlinegdb.com/byoinpHMFD
 
 *Note: These links are based on the project URL shared earlier. If this code belongs to a different repository, replace them with the correct links.*
 
@@ -88,6 +89,8 @@ This project helps demonstrate:
 - Save student records permanently using JSON or a database.
 - Display subjects in alphabetical order.
 - Improve formatting and error messages.
+
+ 
 
 ## 📝 Important Note
 
